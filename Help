@@ -1,0 +1,7 @@
+lệnh setup thư viện python( 3.12 )
+--------------------------------------
+pip install tls_client PyNaCl cryptography bs4 requests cryptography
+pip install typing-extensions
+       
+--------------------------------------
+Sau khi cài xong thư viện thì mở file ttcvip2
